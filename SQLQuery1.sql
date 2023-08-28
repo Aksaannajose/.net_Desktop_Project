@@ -1,1 +1,1 @@
-﻿create table Registration(Rid int Primary key,Name varchar(10),Address varchar(20),Pincode varchar(30),Contact_number varchar(40),Email varchar(50),Username varchar(50));
+﻿create table Addcar(carid int Primary key,Register_Number varchar(50),Model varchar(50),Make varchar(50),Body_style varchar(50),Price varchar(50),Year varchar(50),interior_color varchar(50),Exterior_color varchar(50));

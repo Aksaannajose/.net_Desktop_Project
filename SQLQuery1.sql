@@ -1,0 +1,1 @@
+﻿create table Registration(Rid int Primary key,Name varchar(10),Address varchar(20),Pincode varchar(30),Contact_number varchar(40),Email varchar(50),Username varchar(50));
